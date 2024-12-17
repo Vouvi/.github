@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: center;">
+<div style="margin:auto;">
     <img src="images/logo.png">
 </div>
-<div style="font-size:20px; display:flex; flex-direction:column;">
+<div style="font-size:40px;">
     <p>
     <strong>Missão:</strong>
 Temos como missão capacitar pessoas com conhecimento financeiro, promover o controle de finanças pessoais e melhorar a qualidade de vida.
