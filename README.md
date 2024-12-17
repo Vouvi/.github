@@ -28,7 +28,7 @@
 <br/><br/><br>
 
 <p align="center" >
- <img src="images/BACK-ENDe.png" alt="back-end" width="300" />
+ <img src="images/BACK-END.png" alt="back-end" width="300" />
 </p>
 
 <br>
