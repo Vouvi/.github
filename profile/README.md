@@ -56,5 +56,5 @@
 
 <br><br>
 <p align="center">
-[vouvi.github.io/vouvi-frontend-client/](https://vouvi.github.io/vouvi-frontend-client/)
+(https://vouvi.github.io/vouvi-frontend-client/)
 </p>
