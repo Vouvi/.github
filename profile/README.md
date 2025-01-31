@@ -54,5 +54,7 @@
   <img src="images/GITHUB.png" alt="GITHUB" width="110" />
 </p>
 
-
-<p>vouvi.github.io/vouvi-frontend-client/</p>
+<br><br>
+<p align="center">
+[vouvi.github.io/vouvi-frontend-client/](https://vouvi.github.io/vouvi-frontend-client/)
+</p>
